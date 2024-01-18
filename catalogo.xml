@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<catalogoLibros>
+
+  <libro idioma="español">
+    <titulo>La Divina Comedia</titulo>
+    <autor>Dante Alighieri</autor>
+    <genero>Poesía épica</genero>
+    <añoPublicacion>1320</añoPublicacion>
+  </libro>
+
+  <libro idioma="español">
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <genero>Novela</genero>
+    <añoPublicacion>1605</añoPublicacion>
+  </libro>
+
+  
+  <libro idioma="español">
+    <titulo>Porqué creemos en mierdas?</titulo>
+    <autor>Ramon Nogueras</autor>
+    <genero>Ensayo</genero>
+    <añoPublicacion>2018</añoPublicacion>
+  </libro>
+
+
+  <libro idioma="inglés">
+    <titulo>Más allá de la libertad y la dignidad</titulo>
+    <autor>Frederic Skinner</autor>
+    <genero>Psicología</genero>
+    <añoPublicacion>1971</añoPublicacion>
+  </libro>
+</catalogoLibros>
